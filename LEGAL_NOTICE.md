@@ -53,7 +53,7 @@ If you discover vulnerabilities using this tool:
 3. Never exploit vulnerabilities without permission
 
 ### 7. Contact
-For legal inquiries: [Your Email]
+For legal inquiries
 
 ---
 
